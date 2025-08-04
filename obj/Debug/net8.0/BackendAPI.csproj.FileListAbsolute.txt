@@ -133,3 +133,5 @@ C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\obj\Debug\net8.0\refint\Backend
 C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\obj\Debug\net8.0\BackendAPI.pdb
 C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\obj\Debug\net8.0\BackendAPI.genruntimeconfig.cache
 C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\obj\Debug\net8.0\ref\BackendAPI.dll
+C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\obj\Debug\net8.0\BackendAPI.sourcelink.json
+C:\Users\kabo9\Downloads\Qr-Generator\BackendAPI\bin\Debug\net8.0\BackendAPI.staticwebassets.runtime.json

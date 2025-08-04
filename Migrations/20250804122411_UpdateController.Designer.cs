@@ -2,6 +2,7 @@
 using BackendAPI.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
@@ -10,9 +11,11 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace BackendAPI.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250804122411_UpdateController")]
+    partial class UpdateController
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -34,6 +37,7 @@ namespace BackendAPI.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("Facebook")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("FullName")
@@ -41,38 +45,35 @@ namespace BackendAPI.Migrations
                         .HasColumnType("text");
 
                     b.Property<string>("Instagram")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("JobTitle")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("LinkedIn")
-                        .HasColumnType("text");
-
-                    b.Property<string>("Location")
-                        .HasColumnType("text");
-
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("ProfileImage")
-                        .HasColumnType("text");
-
                     b.Property<string>("ProfileUrl")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Snapchat")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("Website")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("WhatsApp")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.Property<string>("X")
+                        .IsRequired()
                         .HasColumnType("text");
 
                     b.HasKey("Id");

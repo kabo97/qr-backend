@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\51fe88e0-e0f4-436c-941c-a76a1e9659f1_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\51fe88e0-e0f4-436c-941c-a76a1e9659f1_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\6e58ec92-f052-446b-a1af-a15962f3603c_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\6e58ec92-f052-446b-a1af-a15962f3603c_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\741fea73-af24-4ae0-86f3-530a9cf78071_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\741fea73-af24-4ae0-86f3-530a9cf78071_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\79b9f6c7-5951-4f1d-b855-c8a42aeeabf4_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\79b9f6c7-5951-4f1d-b855-c8a42aeeabf4_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\7d2a574e-1416-4f89-af37-1ccfed9f4b8f_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\7d2a574e-1416-4f89-af37-1ccfed9f4b8f_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\b48dca59-365c-44a4-b428-587c65ffa173_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\b48dca59-365c-44a4-b428-587c65ffa173_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\e4a727bc-6240-48a8-83ad-6c7230fb259b_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\e4a727bc-6240-48a8-83ad-6c7230fb259b_personal photo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kabo9\\Downloads\\Qr-Generator\\BackendAPI\\wwwroot\\images\\fc0f2c27-f363-404b-8f2d-3f55cdabd13a_personal photo.jpg",
+      "PackagePath": "staticwebassets\\images\\fc0f2c27-f363-404b-8f2d-3f55cdabd13a_personal photo.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BackendAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BackendAPI.props",
+      "PackagePath": "build\\BackendAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BackendAPI.props",
+      "PackagePath": "buildMultiTargeting\\BackendAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BackendAPI.props",
+      "PackagePath": "buildTransitive\\BackendAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
