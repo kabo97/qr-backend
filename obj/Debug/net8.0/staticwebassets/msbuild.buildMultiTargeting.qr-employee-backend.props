@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\qr-employee-backend.props" />
+</Project>
